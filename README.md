@@ -59,5 +59,4 @@ target = 'bad_loan'
 ```
 ## Author
 
-Imaad Hasan
-
+Imaad Hasan and Faraz Pervez
